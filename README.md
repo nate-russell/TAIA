@@ -5,12 +5,17 @@ Teacher's AI aide: Code for analyzing multiple choice test results
 This repo has python scripts for data mining multiple choice test results. It has been designed to work on top of existing flubaroo output. It is hoped that additional analytics can help teachers design better multiple choice exams and learn something more about their students.
 This project is under sporadic development.
 
-## Install (For Developer)
+## Install (For Developers)
 TODO
 
 ## Install (For Teachers)
 Here are instructions for teachers to get the code to run on their own text outputs.
-TODO
++ Windows TODO
++ Mac TODO
+
+
+## Features
+
 
 #### Simple Statistics
 + Distribution of scores TODO
@@ -37,3 +42,12 @@ TODO
 
 #### Wholistic Analysis
 + Co-Clustering TODO
+
+## Usage (For Developers)
+```python
+todo = 'in progress'
+```
+
+## Usage (For Teachers)
+TODO
+
