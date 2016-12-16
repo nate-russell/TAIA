@@ -1,5 +1,6 @@
-# TAIA
+![alt text](Images/logo.png)
 Teacher's AI aide: Code for analyzing multiple choice test results
+[Link to Website](https://nate-russell.github.io/TAIA/)
 
 ## Project Overview
 This repo has python scripts for data mining multiple choice test results. It has been designed to work on top of existing flubaroo output. It is hoped that additional analytics can help teachers design better multiple choice exams and learn something more about their students.
