@@ -1,5 +1,5 @@
 ![alt text](Images/logo.png)
-Teacher's AI aide: Code for analyzing multiple choice test results
+Teacher's AI aide: Code for analyzing multiple choice test results[![Build Status](https://travis-ci.org/nate-russell/TAIA.svg?branch=master)](https://travis-ci.org/nate-russell/TAIA)
 [Link to Website](https://nate-russell.github.io/TAIA/)
 
 ## Project Overview
